@@ -6,6 +6,13 @@
 	font-variant: small-caps;
 }
 
+blockquote > header{
+	font-variant: small-caps;
+	font-weight: normal;
+	margin-bottom: 1em;
+	text-align: center;
+}
+
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
