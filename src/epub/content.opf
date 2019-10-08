@@ -62,8 +62,8 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Tom Sawyer gets into all sorts of trouble and, with his friend Huck Finn, stumbles on a treasure.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The irrepressible Tom Sawyer drives his Aunt Polly to distraction; she can’t decide whether to cry or laugh at his antics. He fights, falls in love, and finds adventure with two of his friends, one of whom will become famous in his own right. Along the way he attends his own funeral, wins the girl by falsely confessing to something she did, and, most famously, convinces most of the boys in town to pay him for the privilege of painting his aunt’s fence.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Adventures of Tom Sawyer&lt;/i&gt; was Mark Twain’s first novel written solely on his own. Although he was already a well-known author, it was for autobiographical sketches (&lt;i&gt;The Innocents Abroad&lt;/i&gt;) and novels written with others (&lt;i&gt;The Gilded Age&lt;/i&gt;). In writing about Tom, Twain drew on his childhood growing up in Hannibal, Missouri, infusing the story with his usual biting satire and social commentary. In Tom Sawyer and his friends, Twain created young men who would long outlive him. Not without controversy over the years due to its language and negative depiction of a Native American, &lt;i&gt;The Adventures of Tom Sawyer&lt;/i&gt; is arguably Twain's most endearing, and enduring, work.&lt;/p&gt;
+			&lt;p&gt;The irrepressible Tom Sawyer drives his Aunt Polly to distraction; she can’t decide whether to cry or laugh at his antics. He fights, falls in love, and finds adventure with two of his friends, one of whom will later become famous in his own right. Along the way he attends his own funeral, wins the girl by falsely confessing to something she did, and, most famously, convinces most of the boys in town to pay him for the privilege of painting his aunt’s fence.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Adventures of Tom Sawyer&lt;/i&gt; was Mark Twain’s first novel written solely by himself. Although he was already a well-known author, it was for autobiographical sketches (&lt;i&gt;The Innocents Abroad&lt;/i&gt;) and novels written with others (&lt;i&gt;The Gilded Age&lt;/i&gt;). In writing about Tom, Twain drew on his childhood growing up in Hannibal, Missouri, infusing the story with his usual biting satire and social commentary. In Tom Sawyer and his friends, Twain created young men who would long outlive him. Not without controversy over the years due to its language and negative depiction of a Native American, &lt;i&gt;The Adventures of Tom Sawyer&lt;/i&gt; is arguably Twain’s most endearing, and enduring, work.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/74</dc:source>
@@ -81,10 +81,10 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Eastman Johnson</dc:contributor>
+		<meta property="file-as" refines="#artist">Johnson, Eastman</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Eastman_Johnson</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n83177936</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Widger, David</meta>
