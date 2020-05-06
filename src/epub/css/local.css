@@ -18,6 +18,10 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+[epub|type~="z3998:poem"] header p{
+	text-align: center;
+}
+
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:verse"] p{
