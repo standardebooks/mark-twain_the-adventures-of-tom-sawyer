@@ -13,11 +13,6 @@ blockquote > header{
 	text-align: center;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 [epub|type~="z3998:poem"] header p{
 	text-align: center;
 }
