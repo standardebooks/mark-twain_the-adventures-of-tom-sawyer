@@ -69,7 +69,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/74</dc:source>
 		<dc:source>https://books.google.com/books?id=OR46AQAAIAAJ</dc:source>
 		<meta property="se:production-notes">The transcription was missing several italicized words; those and the chapter headers were added from the scans.</meta>
-		<meta property="se:word-count">72985</meta>
+		<meta property="se:word-count">72984</meta>
 		<meta property="se:reading-ease.flesch">81.12</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mark-twain_the-adventures-of-tom-sawyer</meta>
