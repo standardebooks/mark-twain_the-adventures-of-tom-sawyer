@@ -2,8 +2,8 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 [epub|type~="z3998:signature"]{
-	text-align: right;
 	font-variant: small-caps;
+	text-align: right;
 }
 
 blockquote > header{
