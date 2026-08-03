@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/mark-twain/the-adventures-of-tom-sawyer</dc:identifier>
 		<dc:date>2019-10-20T21:30:28Z</dc:date>
@@ -61,11 +61,11 @@
 		<meta property="authority" refines="#subject-10">LCSH</meta>
 		<meta property="term" refines="#subject-10">sh2008107228</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A young boy growing up in Missouri gets into all sorts of trouble and, with his friend, stumbles on a treasure.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young boy growing up in Missouri gets into all sorts of trouble and, with his friend, stumbles on a treasure.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The irrepressible Tom Sawyer drives his Aunt Polly to distraction; she can’t decide whether to cry or laugh at his antics. He fights, falls in love, and finds adventure with two of his friends, one of whom will later become famous in his own right. Along the way he attends his own funeral, wins the girl by falsely confessing to something she did, and, most famously, convinces most of the boys in town to pay him for the privilege of painting his aunt’s fence.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Adventures of Tom Sawyer&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/mark-twain"&gt;Mark Twain’s&lt;/a&gt; first novel written solely by himself. Although he was already a well-known author, it was for autobiographical sketches (&lt;i&gt;The Innocents Abroad&lt;/i&gt;) and novels written with others (&lt;i&gt;The Gilded Age&lt;/i&gt;). In writing about Tom, Twain drew on his childhood growing up in Hannibal, Missouri, infusing the story with his usual biting satire and social commentary. In Tom Sawyer and his friends, Twain created young men who would long outlive him. Not without controversy over the years due to its language and negative depiction of a Native American, &lt;i&gt;The Adventures of Tom Sawyer&lt;/i&gt; is arguably Twain’s most endearing, and enduring, work.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/74</dc:source>
 		<dc:source>https://books.google.com/books?id=OR46AQAAIAAJ</dc:source>
